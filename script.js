@@ -73,6 +73,7 @@ for (let i = 0; i < NumList.length; i++) {
   divBarHighNum.appendChild(pTag);
 
   pTag.classList.add("PTag");
+  pTag.style.textAlign= "center"
 
   if (i === 1) {
     pTag.style.color = "white";
