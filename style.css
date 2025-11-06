@@ -1,6 +1,26 @@
-h1{
-    display: flex;
-    justify-content: center;
-    color: #6e6ef7;
+h1 {
+  display: flex;
+  justify-content: center;
+  color: #6e6ef7;
 }
 
+.DivBarbody {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 80px 80px 80px;
+  margin: 0px 50px 0px 0px;
+  border: solid black 1px;
+}
+
+.DivBarList {
+  background-color: #a8a8f0;
+  width: 90px;
+  padding: 20px 20px 20px 20px;
+}
+
+.PTag {
+  height: 40px;
+  margin: 0px;
+  align-content: center;
+  align-items: center;
+}
